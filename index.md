@@ -11,6 +11,7 @@ Some bad C code
 #include <stdio.h> 
 #include <string.h> 
 
+
 void main() { // 'main' should return int
     int n; 
     printf("Enter a number: "); 
